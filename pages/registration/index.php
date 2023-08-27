@@ -17,7 +17,14 @@
         <input class="form-control form-control-sm mb-1" type="password" placeholder="password">
         <input class="form-control form-control-sm mb-1" type="password" placeholder="confirm password">
         <input class="form-control form-control-sm mb-1" type="email" placeholder="email">
+        <div class="form-check">
+        <input class="form-check-input" type="checkbox" value="" id="flexCheckIndeterminate">
+        <label class="form-check-label" for="flexCheckIndeterminate">
+            Запомнить пароль
+        </label>
+        </div>
         <input class="form-control form-control-sm mb-1 btn btn-outline-success" type="submit">
+
         <button>new button</button>
         <div>2</div>
     </form>

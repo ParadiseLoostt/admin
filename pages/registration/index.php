@@ -11,11 +11,13 @@
 <body>
 
     <form action="" class="col-10 col-sm-6 m-auto mt-5">
+        <div>1</div>
         <input class="form-control form-control-sm mb-1" type="text" placeholder="login">
         <input class="form-control form-control-sm mb-1" type="password" placeholder="password">
         <input class="form-control form-control-sm mb-1" type="password" placeholder="confirm password">
         <input class="form-control form-control-sm mb-1" type="email" placeholder="email">
         <input class="form-control form-control-sm mb-1 btn btn-outline-success" type="submit">
+        <div>2</div>
     </form>
 
     <script src="/node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>

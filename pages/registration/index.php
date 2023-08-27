@@ -11,6 +11,7 @@
 <body>
 
     <form action="" class="col-10 col-sm-6 m-auto mt-5">
+        <div>1</div>
         <button>new button</button>
         <input class="form-control form-control-sm mb-1" type="text" placeholder="login">
         <input class="form-control form-control-sm mb-1" type="password" placeholder="password">
@@ -18,6 +19,7 @@
         <input class="form-control form-control-sm mb-1" type="email" placeholder="email">
         <input class="form-control form-control-sm mb-1 btn btn-outline-success" type="submit">
         <button>new button</button>
+        <div>2</div>
     </form>
 
     <script src="/node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
